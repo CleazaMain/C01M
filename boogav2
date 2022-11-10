@@ -1,0 +1,2 @@
+getgenv().Key = "48fcad2eaace87424fe230d1b03b7d9f881a4b41";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CleazaMain/C01M/main/booga"))()
